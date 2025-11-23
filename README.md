@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Matías 👋
 
-<!--
-**matilopez8394-coder/matilopez8394-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+Financial & Data Analyst with 8+ years of experience transforming complex datasets into actionable insights. Recently completed MSc in Economics at Universidade de Vigo (GPA 9.31/10).
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Python, R, SQL
+- **Data Tools**: Pandas, NumPy, Power BI, Excel
+- **Databases**: SQL Server, Oracle
+- **Other**: Git, VBA, ETL processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Do
+- Financial data analysis & reporting
+- Automated ETL pipelines
+- Dashboard development
+- Statistical & econometric modeling
+- Data quality frameworks
+
+## 🎯 Currently
+- 🎓 Recently completed MSc in Economics (Econometrics & Data Analysis) - GPA 9.31/10
+- 💼 Open to Data Analyst roles in fintech/tech
+- 📍 Based in Spain, open to remote opportunities
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-l%C3%B3pez-sosa-6753b292/)
+
+---
+💡 Check out my pinned repositories below for examples of my work!
