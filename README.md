@@ -6,7 +6,7 @@ Financial & Data Analyst with 8+ years of experience transforming complex datase
 ## 🛠️ Tech Stack
 - **Languages**: Python, R, SQL
 - **Data Tools**: Pandas, NumPy, Power BI, Excel
-- **Databases**: SQL Server, Oracle
+- **Databases**: SQL Server, Power Query, Oracle BI
 - **Other**: Git, VBA, ETL processes
 
 ## 📊 What I Do
